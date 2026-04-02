@@ -1,0 +1,46 @@
+Exercises for April 2
+SELECT first_name, last_name,store_id FROM customer
+LIMIT 10;
+SELECT first_name,last_name,email FROM customer
+WHERE store_id = 2 AND active = 1
+ORDER BY last_name ASC;
+
+SELECT c.first_name,c.last_name,a.address,a.phone FROM customer AS c
+INNER JOIN address AS a ON c.address_id = a.address_id;
+
+SELECT c.first_name,c.last_name,a.address,ci.city
+FROM customer AS c
+INNER JOIN address AS a ON c.address_id = a.address_id
+INNER JOIN city AS ci ON a.city_id = ci.city_id
+ORDER BY ci.city;
+
+SELECT f.title,r.rental_id
+FROM film AS f
+LEFT JOIN inventory AS i ON f.film_id = i.film_id
+LEFT JOIN rental AS r ON i.inventory_id = r.inventory_id
+WHERE r.rental_id IS NULL;
+
+SELECT ci.city,SUM(p.amount) AS total_city_revenue
+FROM payment AS p
+INNER JOIN customer AS c ON p.customer_id = c.customer_id
+INNER JOIN address AS a ON c.address_id = a.address_id
+INNER JOIN city AS ci ON a.city_id = ci.city_id
+GROUP BY ci.city
+ORDER BY total_city_revenue DESC
+LIMIT 10;
+
+SELECT name AS category_name,
+ROUND(AVG(rental_rate), 2) AS avg_category_rate
+FROM category AS cat
+INNER JOIN film_category AS fc ON cat.category_id = fc.category_id
+INNER JOIN film AS f ON fc.film_id = f.film_id
+GROUP BY name
+ORDER BY avg_category_rate DESC;
+
+SELECT c.first_name,c.last_name, SUM(p.amount)
+FROM customer AS c
+INNER JOIN payment AS p ON p.customer_id = c.customer_id
+GROUP BY first_name,last_name
+HAVING SUM(p.amount) > 150.00
+ORDER BY SUM(p.amount) DESC
+LIMIT 10;
