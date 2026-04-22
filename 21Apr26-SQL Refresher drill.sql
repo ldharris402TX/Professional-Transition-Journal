@@ -6,5 +6,5 @@ ON c.customer_id = r.customer_id
 WHERE r.return_date IS NULL
 ORDER BY r.rental_date ASC
 
-Phase 2-Cloud and Security
-AWS IAM(Identity and Access Management) lesson
+#Phase 2-Cloud and Security
+#AWS IAM(Identity and Access Management) lesson
