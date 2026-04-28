@@ -4,3 +4,4 @@ A timestamped record of my technical hardening in Python, SQL, and AWS Architect
 April 24 - Week 1 of Cloud Phase 2: Mastered IAM security protocols, EC2 virtual compute instances, and architected storage solutions (EBS, EFS, FSx).
 
 April 27- Week 2 of Cloud Phase 2: "Monday: Mastered High Availability (ASG & ELB) and began Cloud Database architecture."
+April 28- Week 2 of Cloud Phase 2: "Tuesday: Executed SQL relational join drills and completed AWS Sections 9&10(Databases)"
