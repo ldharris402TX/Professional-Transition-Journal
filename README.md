@@ -5,3 +5,4 @@ April 24 - Week 1 of Cloud Phase 2: Mastered IAM security protocols, EC2 virtual
 
 April 27- Week 2 of Cloud Phase 2: "Monday: Mastered High Availability (ASG & ELB) and began Cloud Database architecture."
 April 28- Week 2 of Cloud Phase 2: "Tuesday: Executed SQL relational join drills and completed AWS Sections 9&10(Databases)"
+April 30- Week 2 of Cloud Phase 2: "Thursday: Deep dive into advanced AWS architecture and services (Section 15+)."
