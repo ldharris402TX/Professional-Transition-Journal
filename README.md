@@ -10,4 +10,5 @@ May 1- Week 2 of Cloud Phase 2: COMPLETED AWS Certified Cloud Practitioner curri
 May 4-Week 3 of Cloud Phase 2:"Monday: Pivoted prep to focus exclusively on updating my resume. researched companies for applications. Finalized STAR scripts for interviewing."
 May 5-Week 3 of Cloud Phase 2:"Tuesday: Completed STAR mock interviews. Finalized Customer Obsession and Results narratives. Synchronized 'Shared Responsibility' model with Operations logic."
 May 9-Week 3 of Cloud Phase 2:"Saturday:Emailed follow ups.Read & Completed Security+ Chapter 3 Malicious Code & Chapter 4 Social Engineering,no screen studying."
-May 18-Linux, Week 3 of Cloud Phase 2: Resumed active study. Commenced Linux Foundations Module. Configured workspace in PyCharm and verified terminal behavior."
+May 18-Day 1,Linux, Week 3 of Cloud Phase 2: Resumed active study. Commenced Linux Foundations Module. Configured workspace in PyCharm and verified terminal behavior."
+May 19-Day 2, Linux, Week 3 of Cloud Phase 2:Tuesday: Attended strategic broker networking session. Commenced Linux Section 2: Files and Directories."
