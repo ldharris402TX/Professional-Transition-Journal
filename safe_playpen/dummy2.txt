@@ -1,0 +1,14 @@
+Property Address: 1234 Main St, Austin, TX 78701
+Tenant Name: Alice Smith
+Lease Start: 2026-06-01
+Monthly Rent: $2,500.00
+Security Deposit: $2,500.00
+Outstanding Balance: $0.00
+
+This document serves as the primary lease record for Unit A. Any modifications
+to this file must be logged and pushed to the secure AWS repository immediately.
+Please ensure all smoke detector and physical security compliance checks are marked
+as "Passed" before handing over the virtual or physical keys to the resident.
+Practice edit on Tuesday, May 26
+
+
