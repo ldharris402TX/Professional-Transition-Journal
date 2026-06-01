@@ -1,0 +1,2 @@
+echo "This is my practice environment for the Emacs lecture notes." > dummy4.txt
+
