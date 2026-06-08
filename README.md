@@ -12,3 +12,4 @@ May 5-Week 3 of Cloud Phase 2:"Tuesday: Completed STAR mock interviews. Finalize
 May 9-Week 3 of Cloud Phase 2:"Saturday:Emailed follow ups.Read & Completed Security+ Chapter 3 Malicious Code & Chapter 4 Social Engineering,no screen studying."
 May 18-Day 1,Linux, Week 3 of Cloud Phase 2: Resumed active study. Commenced Linux Foundations Module. Configured workspace in PyCharm and verified terminal behavior."
 May 19-Day 2, Linux, Week 3 of Cloud Phase 2:Tuesday: Attended strategic broker networking session. Commenced Linux Section 2: Files and Directories."
+June 8-Linux lessons and practice. Completed advanced CLI exercises-piping, redirection,grep. Completed Linux section 2. Completed CMA and buyer profile.
